@@ -1,0 +1,15 @@
+.Nav-bar ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0 3px;
+    color: #333;
+}
+
+.Nav-bar li {
+    padding: 10px 1em;
+    font-size: 1.3em;
+    color: #333;
+    text-decoration: none;
+    
+}

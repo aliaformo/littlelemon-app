@@ -1,0 +1,12 @@
+.review-container {
+    background-color: #edefee;
+    padding: 20px;
+    margin-bottom: 8em;
+    width: 19%;
+}
+
+.img-name {
+    display: flex;
+    gap: 10px;
+    margin-top: 0.5em;
+}

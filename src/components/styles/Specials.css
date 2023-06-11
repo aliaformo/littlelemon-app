@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Markazi+Text&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+
+.specials {
+    padding: 0 20em;
+    margin-bottom: 3em;
+}
+
+.top-specials {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.top-specials h1 {
+    color: #333;
+    font-size: 48pt;
+    font-weight: 500;
+    font-family: 'Markazi Text', serif;
+}
+
+.top-specials button {
+    background-color: #f4ce14;
+    color: black;
+    border-radius: 8px;
+    border: none;
+    padding: 10px 20px;
+    font-weight: bolder;
+    float: right;
+    display: inline;
+    
+  }
