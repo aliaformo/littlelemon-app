@@ -13,7 +13,6 @@
 
 - Prototype
 
-
 ![Prototype](public/imgs/design-image.png)
 
 ## UX Design
