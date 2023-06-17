@@ -30,3 +30,7 @@
     display: inline;
     
   }
+
+  .top-specials button:hover {
+    cursor: pointer;
+  }

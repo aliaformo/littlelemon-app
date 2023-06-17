@@ -1,13 +1,13 @@
 import React from "react";
 import "./styles/Footer.css";
-import Restaurant from "../assets/Restaurant.jpg";
+import WhiteLogo from "../assets/WhiteLogo.jpg";
 
 const Footer = () => {
   return (
     <footer>
         <img
-          src={Restaurant}
-          alt="restaurant terrace"
+          src={WhiteLogo}
+          alt="Little Lemon Logo"
         />
         <nav>
         <h3>Doormat <br/> Navigation</h3>
