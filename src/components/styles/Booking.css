@@ -81,6 +81,7 @@
 
 .booking-container textarea {
   height: 7em;
+  padding: 10px;
 }
 
 .fullName {
