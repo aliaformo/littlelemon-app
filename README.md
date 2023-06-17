@@ -2,8 +2,10 @@
 
 ## How to use it?
 
-1. Clone or download this repo, and run the `npm install` to install all dependencies and create the node modules folder at your end.
-2. Then run the `npm start` command to see the website.
+1. Download or Clone or this repo: `git clone https://github.com/aliaformo/littlelemon-app.git`
+2. Then navigate to the directory `cd littlelemon-app`
+3. Make sure you're in this folder, you'll see the package.json file, then run the `npm install` command to install all dependencies and create the `node_modules` folder at your end.
+4. Finally, run the `npm start` command to see the website and make your reservation.
 
 ## UX Design Guide
 
