@@ -18,7 +18,7 @@
 
 ![Prototype](public/imgs/design-image.png)
 
-## UX Design
+## UX System
 ![](public/imgs/Ui-kit.png)
 
 ## Final result (Website image)
