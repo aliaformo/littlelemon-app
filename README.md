@@ -12,6 +12,8 @@
 ![Wireframe](public/imgs/wireframe.png)
 
 - Prototype
+
+
 ![Prototype](public/imgs/design-image.png)
 
 ## UX Design
