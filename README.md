@@ -1,7 +1,7 @@
 # Little Lemon Website to reserve a table
 
 ## How to use it?
-- You must have Node.js, npm or yarn installed on your system.
+- [x] You must have Node.js, npm or yarn installed on your system.
 
 1. You can either download the project by clicking on the green button and select _**Download**_, or Clone this repo to your local machine by running: `git clone https://github.com/aliaformo/littlelemon-app.git`
 2. Then navigate to the directory `cd littlelemon-app`
